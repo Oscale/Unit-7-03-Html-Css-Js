@@ -1,4 +1,4 @@
-document.getElementById('submit').addEventListener('click',Activate)
+document.getElementById('submit').addEventListener('click', Activate)
 
 let urage = 0
 
